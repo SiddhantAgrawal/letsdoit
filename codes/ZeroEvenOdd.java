@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/print-zero-even-odd/
+
 class ZeroEvenOdd {
     private int n;
     private boolean isOdd = true;
